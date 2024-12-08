@@ -1,0 +1,107 @@
+[
+    {
+      "id": 1,
+      "name": "ネイチャーメイド ビタミンB1",
+      "nutrients": ["ビタミンB1"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "糖質をエネルギーに変えるビタミンB1を含有し、活力ある生活をサポートします。"
+    },
+    {
+      "id": 2,
+      "name": "ネイチャーメイド ビタミンB2",
+      "nutrients": ["ビタミンB2"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "脂肪などの栄養素の燃焼を促し、エネルギー産生をサポートするビタミンB2を含有しています。"
+    },
+    {
+      "id": 3,
+      "name": "ネイチャーメイド ビタミンB6",
+      "nutrients": ["ビタミンB6"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "タンパク質の代謝を助け、健康維持をサポートするビタミンB6を含有しています。"
+    },
+    {
+      "id": 4,
+      "name": "ネイチャーメイド ビタミンB12",
+      "nutrients": ["ビタミンB12"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "赤血球の形成を助け、神経系の健康維持をサポートするビタミンB12を含有しています。"
+    },
+    {
+      "id": 5,
+      "name": "ネイチャーメイド 葉酸",
+      "nutrients": ["ビタミンB9（葉酸）"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "細胞の生成や成長をサポートする葉酸を含有し、妊娠中の女性にもおすすめです。"
+    },
+    {
+      "id": 6,
+      "name": "ネイチャーメイド ビオチン",
+      "nutrients": ["ビタミンB7（ビオチン）"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "皮膚や髪の健康維持をサポートするビオチンを含有しています。"
+    },
+    {
+      "id": 7,
+      "name": "ネイチャーメイド ナイアシン",
+      "nutrients": ["ビタミンB3（ナイアシン）"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "エネルギー代謝をサポートするナイアシンを含有しています。"
+    },
+    {
+      "id": 8,
+      "name": "ネイチャーメイド パントテン酸",
+      "nutrients": ["ビタミンB5（パントテン酸）"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "脂質や糖質の代謝を助けるパントテン酸を含有しています。"
+    },
+    {
+      "id": 9,
+      "name": "ネイチャーメイド ビタミンC",
+      "nutrients": ["ビタミンC"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "抗酸化作用を持ち、免疫機能をサポートするビタミンCを含有しています。"
+    },
+    {
+      "id": 10,
+      "name": "ネイチャーメイド ビタミンA",
+      "nutrients": ["ビタミンA"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "視力や免疫機能の維持をサポートするビタミンAを含有しています。"
+    },
+    {
+      "id": 11,
+      "name": "ネイチャーメイド ビタミンD",
+      "nutrients": ["ビタミンD"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "骨の健康維持をサポートするビタミンDを含有しています。"
+    },
+    {
+      "id": 12,
+      "name": "ネイチャーメイド ビタミンE",
+      "nutrients": ["ビタミンE"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "抗酸化作用を持ち、細胞の健康維持をサポートするビタミンEを含有しています。"
+    },
+    {
+      "id": 13,
+      "name": "ネイチャーメイド ビタミンK",
+      "nutrients": ["ビタミンK"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "血液凝固や骨の健康維持をサポートするビタミンKを含有しています。"
+    },
+    {
+      "id": 14,
+      "name": "ネイチャーメイド カルシウム",
+      "nutrients": ["カルシウム"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "骨と歯の健康維持をサポートするカルシウムを含有しています。"
+    },
+    {
+      "id": 15,
+      "name": "ネイチャーメイド マグネシウム",
+      "nutrients": ["マグネシウム"],
+      "link": "https://www.amazon.co.jp/dp/B001E101LU",
+      "description": "筋肉や神経の正常な働きをサポートするマグネシウムを含有しています。"
+    }
+]
